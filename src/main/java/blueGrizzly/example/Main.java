@@ -18,7 +18,7 @@ public class Main {
 //        }
 //        mapString.forEach((key,value)-> System.out.println(key + " " + value));
 
-        List<String> list = Arrays.asList("div", "er", "Danmark", "Gaza", "Taylor", "AI");
+        List<String> list = Arrays.asList("div", "er", "Danmark", "Gaza", "Taylor", "AI", "politi");
         List<String> URL = Arrays.asList("https://www.dr.dk/", "https://www.eb.dk", "https://www.reddit.com");
         UrlReader reader = new UrlReader();
 
